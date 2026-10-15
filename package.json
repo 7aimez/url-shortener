@@ -1,0 +1,14 @@
+{
+  "name": "my-url-shortener",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Cloudflare Workers + KV URL shortener project for portfolio use",
+  "type": "module",
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy"
+  },
+  "devDependencies": {
+    "wrangler": "^3.99.0"
+  }
+}
