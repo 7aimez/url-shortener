@@ -1,4 +1,4 @@
-name = "my-url-shortener"
+name = "url-shortener"
 main = "src/index.js"
 compatibility_date = "2024-11-01" # match your wrangler version
 
